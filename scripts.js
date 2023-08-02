@@ -46,4 +46,30 @@ planets.forEach((planet,index) => {
     console.log(planet, index);
     });
 // exo 3
-const someDataTypes = ["5",12,'5', null]
+const someDataTypes = ["5",12,`5`, null]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// exo 6
+let values1= ["Apple", 1, false, "2"];
+let values2 = [`5`, "Fries", 2 , true];
+let values3 = ["Mars", "Strawberry", 9];
+
+
